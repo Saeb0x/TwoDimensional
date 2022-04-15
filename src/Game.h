@@ -53,5 +53,5 @@ private:
 
 	// Engine's Intro
 	Graphics BG;
-	OutlineText  TwoDimensional;
+	OutlineText TwoDimensional;
 };
