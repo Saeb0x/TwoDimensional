@@ -6,7 +6,7 @@ A layer of software that's built on top of SDL (Simple DirectMedia Layer) librar
 that facilitate 2D video games creation. This 2D engine is simple but effective, it should be able to draw primitive graphics, work
 with a variety of assets (Images, Sprites, Animated sprites and Scrolling backgrounds), play sounds and process input. It should 
 be flexible and easy to expand upon. This engine follows the modular design, which means that different fields of functionality 
-is splited into different sections or components.
+is splitted into different sections or components.
 
 Major Features:
 - This engine is designed to support hybrid game objects model of monolithic class hierarchy and components model. 
@@ -15,7 +15,6 @@ Major Features:
 - Input system to process inputs for actors
 - MathForGames library equipped with functions that ease dealing with 2D vectors and other mathematical aspects in games and graphics applications
 - Easy to expand upon and add more functionality as needed
-- Much More...
 
 
 ----------
