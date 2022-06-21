@@ -1,7 +1,7 @@
 # TwoDimensional
 
 ## Latest release and features
-https://github.com/saebnaser/TwoDimensional/blob/master/Docs/ReleaseNotes/TwoDimensional_April2022.txt
+https://github.com/Saeb0x/TwoDimensional/blob/master/Docs/ReleaseNotes/TwoDimensional_April2022.txt
 
 ## Dependencies
 - SDL2
