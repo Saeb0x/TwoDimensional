@@ -10,4 +10,4 @@ https://github.com/Saeb0x/TwoDimensional/blob/master/Docs/ReleaseNotes/TwoDimens
 ![ScreenShot](https://user-images.githubusercontent.com/56490771/163647601-1893c038-2e9d-414f-b168-f913d3c5ede1.PNG)
 
 ## Games
-- https://github.com/saebnaser/Asteroids-Demo.git
+- https://github.com/Saeb0x/Asteroids-Demo.git
